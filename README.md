@@ -1,3 +1,5 @@
+Coursera Getting and Cleaning Data course project
+
 This is the project for the Getting and cleaning data course.
 The run_analysis.R file contains the following process.
 Downoload and unzip the "Dataset"
